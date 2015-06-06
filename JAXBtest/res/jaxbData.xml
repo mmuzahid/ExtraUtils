@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<userList>
+    <user>
+        <sex>MALE</sex>
+        <user_id>1433573123148</user_id>
+        <role>
+            <name>Admin</name>
+            <permissions>
+                <name>Add User</name>
+            </permissions>
+            <permissions>
+                <name>Edit User</name>
+            </permissions>
+        </role>
+        <name>Jack Fruit</name>
+    </user>
+    <user>
+        <sex>MALE</sex>
+        <user_id>1433573123148</user_id>
+        <role>
+            <name>Admin</name>
+            <permissions>
+                <name>Add User</name>
+            </permissions>
+            <permissions>
+                <name>Edit User</name>
+            </permissions>
+        </role>
+        <name>Jack Fruit</name>
+    </user>
+    <user>
+        <sex>MALE</sex>
+        <user_id>1433573123148</user_id>
+        <role>
+            <name>Admin</name>
+            <permissions>
+                <name>Add User</name>
+            </permissions>
+            <permissions>
+                <name>Edit User</name>
+            </permissions>
+        </role>
+        <name>Jack Fruit</name>
+    </user>
+</userList>
